@@ -20,6 +20,9 @@ td{
     padding: 4px;
     color: rgb(255, 145, 0);
 }
+table{
+    width: 100%;
+}
 td a img:hover{
     width:325px;
     height: 305px;
