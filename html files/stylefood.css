@@ -1,0 +1,62 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Satisfy';
+    font-size: 25px;
+    word-spacing: 2px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 316px;
+    height: 296px;
+    
+}
+p{
+    text-align: justify;
+}
+h1{
+    text-align: center;
+    color: rgb(255, 145, 0);
+}
+h4{
+    text-align: center;
+    color: rgb(255, 145, 0);
+    font-family: 'Acme';
+    text-decoration: underline;
+}
+h2{
+    font-family: 'Acme';
+    color:rgb(255, 145, 0) ;
+    text-decoration: underline;
+}
+.fooding{
+    width: 600px;
+}
+div.main{
+    width: 320px; 
+    border: 2px solid white;
+    float: left;
+    margin: 80px;
+    box-shadow: 4px 4px 5px lightblue;
+    display: block;
+   
+}
+.inside{
+    padding: 7px;
+    border: 1px solid white;
+    height: 300px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+   
+}
+div.main img{
+    width: 100%;
+    height: 296px;
+}
+div:hover{
+    overflow: visible;
+    height: auto;
+    border: 3px solid lightblue;
+}
