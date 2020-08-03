@@ -60,3 +60,6 @@ div:hover{
     height: auto;
     border: 3px solid lightblue;
 }
+#important{
+    clear: both;
+}
