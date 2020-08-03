@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    font-family: 'Satisfy';
+    word-spacing: 2px;
+}
+p{
+    text-align: justify;
+}
+h1{
+    text-align: center;
+    color: rgb(255, 145, 0);
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 300px;
+    border: 2px solid white;
+}
+h3{
+    font-family: 'Acme';
+    color: rgb(255, 145, 0);
+    font-size: 35px;
+    text-decoration: underline;
+}
